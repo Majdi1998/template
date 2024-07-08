@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Majdi Hajjaji</h1>
-<h3 align="center">A passionate Mechanical Engineer</h3>
+<h3 align="center">Mechanical Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=majdi-hajjaji" alt="majdi-hajjaji" /></a> </p>
+<p align="left"> <a href="https://github.com/Majdi1998"><img src="https://github-profile-trophy.vercel.app/?username=majdi-hajjaji" alt="majdi-hajjaji" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
